@@ -1,0 +1,14 @@
+{
+    "providers": {
+        "awscloudformation": {
+            "AuthRoleName": "awsreact2-20181208084137-authRole",
+            "UnauthRoleArn": "arn:aws:iam::308692676076:role/awsreact2-20181208084137-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::308692676076:role/awsreact2-20181208084137-authRole",
+            "Region": "us-west-2",
+            "DeploymentBucketName": "awsreact2-20181208084137-deployment",
+            "UnauthRoleName": "awsreact2-20181208084137-unauthRole",
+            "StackName": "awsreact2-20181208084137",
+            "StackId": "arn:aws:cloudformation:us-west-2:308692676076:stack/awsreact2-20181208084137/e588e120-fb18-11e8-bde7-503ac9ec24d1"
+        }
+    }
+}
